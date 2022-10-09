@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Mireille
 - 👀 I’m interested in technical writing and teaching
-- 🌱 I’m currently solidifying my MERN skills
+- 🌱 I’m solidifying my MERN skills and upping my algo game
 - 📫 How to reach me https://www.linkedin.com/in/mireille-crocco/
 
 <!---

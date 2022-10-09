@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Mireille
 - 👀 I’m interested in technical writing and teaching
 - 🌱 I’m solidifying my MERN skills and upping my algo game
-- 📫 How to reach me https://www.linkedin.com/in/mireille-crocco/
+- 📫 reach out here: https://www.linkedin.com/in/mireille-crocco/
 
 <!---
 Mireille13/Mireille13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

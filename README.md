@@ -2,12 +2,12 @@
 <h2> Hello World :earth_americas: I'm Mireille </h2>
 </div>
   
-<div id="header" align="center"> 
+<div id="header" align="left"> 
 <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="300" />
 </div>
 
 
-  <p><b> I am an NYC :cityscape: based software engineer working primarely in the M/PERN techstack with a lil' TypeScript sprinkled on top :sparkles:. I love buidling cool applications and also have a passion for teaching :woman_teacher: and technical writing :fountain_pen:. In my free time you can find me reading books on a variety of topics :book:, exercising :dancer:, or finding the next best place for breakfast :fried_egg:. </b></p>
+  <p><b> I am an NYC based software engineer working primarely in the M/PERN techstack with a lil' TypeScript sprinkled on top. I am passionate about buidling cool applications, teaching and technical writing. In my free time you can find me reading books on a variety of topics, exercising, or finding the next best place for breakfast. </b></p>
 
 
 

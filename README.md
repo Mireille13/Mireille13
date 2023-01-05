@@ -6,7 +6,7 @@
 </div>
 
 
-  <p><b> I am an NYC based software engineer working primarely in the M/PERN techstack with a lil' TypeScript sprinkled on top. I love buidling cool applications and also have a passion for teaching and technical writing. In my free time you can find me reading books on a variety of topics, exercising, or finding the next best place for breakfast. </b></p>
+  <p> I am an NYC based software engineer working primarely in the M/PERN techstack with a lil' TypeScript sprinkled on top. I love buidling cool applications and also have a passion for teaching and technical writing. In my free time you can find me reading books on a variety of topics, exercising, or finding the next best place for breakfast.</p>
  
  
 __Projects:__

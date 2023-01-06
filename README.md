@@ -15,6 +15,8 @@ __Projects:__
  
 [upNext: Keep track of your favorite TV shows](https://github.com/thegeodudes/upNext) POC
 
+[SpeakinMyLanguage: App to find your next pair programming partner](https://github.com/Speakin-My-Language/sml) POC
+
 
 
 

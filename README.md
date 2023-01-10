@@ -12,15 +12,19 @@
 __Pinned Projects:__
 
 [Cedar: Visualization tool for AWS Lambda metrics and logs](https://github.com/oslabs-beta/Cedar) 
+
 A free, open source Lambda function visualization tool that allows users to monitor key metrics and log data at a glance. 
 App allows user to customize which functions they want to see metric and log data for over a time period of their choosing.
  
 [upNext: Keep track of your favorite TV shows](https://github.com/thegeodudes/upNext) (POC)
 
+upNext is a single page app that incorporates Redux toolkit alongside functional components and hooks to persist state as well 
+as React Router for smooth app navigation and fast load-times. 
 
 [SpeakinMyLanguage: App to find your next pair programming partner](https://github.com/Speakin-My-Language/sml) (POC)
 
-
+SpeakinMyLanguage uses OAuth with GitHub allowing for easy user sign-up/login. App uses OAuth to pull user's languages from their
+GitHub profiles to populate their profiles so that they can find other devs who's background best matches with theirs. 
 
 
 

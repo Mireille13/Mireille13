@@ -9,13 +9,16 @@
   <p> I am an NYC based software engineer working primarely in the M/PERN techstack with a lil' TypeScript sprinkled on top. I love buidling cool applications and also have a passion for teaching and technical writing. In my free time you can find me reading books on a variety of topics, exercising, or finding the next best place for breakfast.</p>
  
  
-__Projects:__
+__Pinned Projects:__
 
- [Cedar: Visualization tool for AWS Lambda metrics and logs](https://github.com/oslabs-beta/Cedar) 
+[Cedar: Visualization tool for AWS Lambda metrics and logs](https://github.com/oslabs-beta/Cedar) 
+A free, open source Lambda function visualization tool that allows users to monitor key metrics and log data at a glance. 
+App allows user to customize which functions they want to see metric and log data for over a time period of their choosing.
  
-[upNext: Keep track of your favorite TV shows](https://github.com/thegeodudes/upNext) POC
+[upNext: Keep track of your favorite TV shows](https://github.com/thegeodudes/upNext) (POC)
 
-[SpeakinMyLanguage: App to find your next pair programming partner](https://github.com/Speakin-My-Language/sml) POC
+
+[SpeakinMyLanguage: App to find your next pair programming partner](https://github.com/Speakin-My-Language/sml) (POC)
 
 
 
